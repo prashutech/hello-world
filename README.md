@@ -1,4 +1,4 @@
 # hello-world
 This is my first Git project
 
-every projects starts with a new file.
+every projects starts with a new file. these are added
